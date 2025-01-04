@@ -1,0 +1,8 @@
+
+*.pkl
+*.pyc
+/venv
+/weights
+.cursorignore
+.cursorrules
+data/.DS_Store
